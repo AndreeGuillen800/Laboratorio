@@ -1,7 +1,7 @@
 <?php
 function conectarBD()
 {
-    $servername = "localhost";
+    $servername = "localhost:8080";
     $username = "root";
     $password = "";
     $database   = "sotr";
